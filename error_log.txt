@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "<string>", line 5, in <module>
+    exec(open('evtx_to_csv.py').read())
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 629, in <module>
+  File "<string>", line 625, in main
+  File "<string>", line 334, in launch_gui
+  File "<string>", line 330, in _rb
+NameError: cannot access free variable 'on_mode_change' where it is not associated with a value in enclosing scope
+cannot access free variable 'on_mode_change' where it is not associated with a value in enclosing scope

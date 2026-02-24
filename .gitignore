@@ -1,0 +1,4 @@
+evtx_to_csv.pyc
+__pycache__/
+*.pyc
+error_full.txt
