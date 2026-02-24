@@ -1,8 +1,11 @@
-# ⚡ Converter EVTX to CSV
+<p align="center">
+  <img src="banner.svg" alt="EVTX-to-CSV" width="900"/>
+</p>
 
-**Herramienta para convertir archivos de registro de eventos de Windows (`.evtx`) a formato CSV.**
-
-Creado por **Douglas Puente**
+<p align="center">
+  <b>Convierte archivos de registro de eventos de Windows (<code>.evtx</code>) a CSV.</b><br/>
+  Creado por <b>Douglas Puente</b>
+</p>
 
 ---
 
